@@ -26,15 +26,15 @@ Shield Insurance aims to enhance data-driven decision-making through a dashboard
 
 ## Data Model
 
-![Shield Data model](https://github.com/user-attachments/assets/f7c21922-ee45-4249-9535-62f5ea92f84d)
+![Shield Insurance Data Model](https://github.com/user-attachments/assets/07fa43a5-c0b8-4d4d-889a-2a6eac55dda1)
 
 ## Dashboard Design
 
 - **General View**:
-![KPI](https://github.com/user-attachments/assets/4846c8d8-7a10-438e-a13c-f8e34d065985)
+![General View](https://github.com/user-attachments/assets/45644d02-55bd-4a5b-b56c-4f157e0de4e7)
 - **Sales Mode Analysis**:
-![Market](https://github.com/user-attachments/assets/5d90206b-7cbb-4d07-9443-7bf49bc868c8)
+![Sales Mode Analysis](https://github.com/user-attachments/assets/9bbe38c6-ae9a-4d8f-89a5-df277e11db39)
 - **Age Group Analysis**: 
-![Plan](https://github.com/user-attachments/assets/f71deb23-9a0f-425c-8add-7c7e9d848780)
+![Age Group Analysis](https://github.com/user-attachments/assets/e10c868e-4993-4191-b22a-2945d1b15481)
 
 ## Key Insights
