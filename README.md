@@ -32,7 +32,9 @@ Shield Insurance aims to enhance data-driven decision-making through a dashboard
 
 ![General View](https://github.com/user-attachments/assets/45644d02-55bd-4a5b-b56c-4f157e0de4e7)
 
+
 ![Sales Mode Analysis](https://github.com/user-attachments/assets/9bbe38c6-ae9a-4d8f-89a5-df277e11db39)
+
 
 ![Age Group Analysis](https://github.com/user-attachments/assets/e10c868e-4993-4191-b22a-2945d1b15481)
 
