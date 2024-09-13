@@ -1,4 +1,4 @@
-# Shield Insurance Analysis-Power BI
+# Shield Insurance Analysis - Power BI
 
 This project is part of AtliQ Technologies Virtual Internship.
 
